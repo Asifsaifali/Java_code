@@ -20,7 +20,7 @@ public static void SelectionSort(int[] arr){
     }
 }
     public static void main(String[] args) {
-        int[] arr = {14,2,31,92,6,81,52,4,9};
+        int[] arr = {7,6,5,4,3,2,1};
         SelectionSort(arr);
         for (int i = 0; i < arr.length; i++) {
           System.out.print(arr[i] + " ");
