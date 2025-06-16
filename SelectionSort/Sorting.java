@@ -26,4 +26,8 @@ public static void SelectionSort(int[] arr){
           System.out.print(arr[i] + " ");
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 05ff9e9cdb9c05385ab8138cf109ab82c08fc9eb
